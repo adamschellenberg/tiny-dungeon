@@ -1,0 +1,1 @@
+launchSoundPath= short audio file to play while launch animation plays

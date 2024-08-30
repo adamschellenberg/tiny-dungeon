@@ -1,0 +1,10 @@
+name=Tiny Dungeon
+author=Adam Schellenberg
+description=Filled to the brim with delightfully tiny dungeons for you to conquer!
+bundleID=com.adamschellenberg.tiny-dungeon
+version=0.001
+buildNumber=001
+imagePath=images/launcher
+launchSoundPath=sounds/launcher/launch.wav
+pdxversion=20500
+buildtime=778209524

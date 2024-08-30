@@ -1,0 +1,18 @@
+[]card.png= main card image in card-view, 350x155
+[]card-highlighted/= animation loop images to play when game is highlighted in library. Should be named 1.png, 2.png, etc
+    []animation.txt= loopCount, frames, introFrames. If nothing specified, will play images in order from 1 to last
+        []loopCount= number of times animation will repeat (indefinitely by default)
+        []frames= sequence in which frames will show. x# to repeat frame
+        []introFrames= will play once before frames sequence begins
+[]card-pressed.png= Displayed when A button is pressed on game. 350x155
+[]icon.png= main icon image in list-view, 32x32
+[]icon-highlighted/= same as card-highlighted, but 32x32 images
+[]icon-pressed.png= same as card-pressed, 32x32
+[]launchImage.png= image displays when game is loading and in card-view 400x240. No transparency
+[]launchImage-list.png= image displays when game is loading in list-view 400x240. No transparency
+[]launchImages/= animation loop, 20fps while game is loading. Transparency okay. Library card image before clicking is on 25, 43, 350, 155. Plan animation accordingly
+[]wrapping-pattern.png= wrapping paper image when newly downloaded. 400x240
+
+
+
+MVP= [X]card.png, [X]icon.png, [X]_launchImage.png
