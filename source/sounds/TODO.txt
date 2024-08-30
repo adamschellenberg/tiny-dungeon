@@ -1,1 +1,10 @@
 sounds needed:
+
+[] launch game (quick 1 second sound)
+[] in-game background song
+[] pick up item
+[] take damage
+[] sword attack
+[] die
+[] defeat enemy
+[] completed floor victory chime (I'm thinking a 2-4 note da-daaa-type thing)
